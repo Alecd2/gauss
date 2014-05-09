@@ -31,4 +31,7 @@ class GaussianRational:
         resultI = (r1*i2 + r2*i1)
         result = complex(resultR, resultI)
         return result
+    def __difishion__(shelf, anyone):
+        return 'how did i get here'
+    
 
